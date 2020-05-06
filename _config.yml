@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Lunatic moon
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Gary Zhu
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://github.com/garyyy-design
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: apollo
+theme: clover
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
