@@ -1,6 +1,6 @@
 # Custom nav
 nav:
-  title: "Clover Tuan"
+  title: "lunatic moon"
 
 favicon: ""
 
@@ -11,12 +11,8 @@ background:
 
 # Social media
 social:
-  Dribbble: https://dribbble.com/clovertuan
-  Behance: https://www.behance.net/clovertuan
-  Lofter: http://clovertuan.lofter.com/
-  Instagram: https://www.instagram.com/clovertuan/
-  GitHub: https://github.com/cloverTuan
-
+ 
+  GitHub: https://github.com/garyyy-design/
 # Custom footer
 mail: d.guangying@foxmail.com
 copyright: All rights reserved @Clover Tuan
